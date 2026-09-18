@@ -73,5 +73,13 @@
   "flow-rune": "assets/items/flow-rune.webp",
   "bastion-seal": "assets/items/bastion-seal.webp",
   "blood-chalice": "assets/items/blood-chalice.webp",
-  "black-censer": "assets/items/black-censer.webp"
+  "black-censer": "assets/items/black-censer.webp",
+  "rearguard-mechanism": "assets/items/rearguard-mechanism.webp",
+  "lone-standard": "assets/items/lone-standard.webp",
+  "column-bonds": "assets/items/column-bonds.webp",
+  "flanking-wings": "assets/items/flanking-wings.webp",
+  "guardians-veil": "assets/items/guardians-veil.webp",
+  "doom-clock": "assets/items/doom-clock.webp",
+  "undying-chalice": "assets/items/undying-chalice.webp",
+  "funeral-bell": "assets/items/funeral-bell.webp"
 }
